@@ -1,22 +1,26 @@
 Collin Van Dyck
 ===============
 
----
-> A love of programming, and coffee.
----
+----
+
+> Programming, Coffee, Cats
+
+----
 
 Experience
 ----------
 
 2022-2023
 :   Principal Software Engineer at ngrok.com
-    One
-    Two
-    Three
+
+    * One
+    * Two
+    * Three
 
 
 Education
 ----------
+
 B.S of Science in Computer Science
 Georgia Tech, 1998
 

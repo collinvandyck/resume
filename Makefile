@@ -1,3 +1,3 @@
 build:
-	pandoc --standalone --from markdown --to html -o resume.html resume.md
-
+	pandoc --standalone -c style.css --from markdown --to html -o resume.html resume.md
+	pandoc --from markdown --to docx -o resume.docx resume.md
