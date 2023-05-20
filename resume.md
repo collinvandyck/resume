@@ -3,7 +3,7 @@ Collin Van Dyck
 
 ----
 
-> Programming, Coffee, Cats
+> Programming, Coffee, Cats, Parsing
 
 ----
 
@@ -11,11 +11,47 @@ Experience
 ----------
 
 2022-2023
-:   Principal Software Engineer at ngrok.com
+:   Principal Software Engineer at **ngrok**
 
-    * One
-    * Two
-    * Three
+    * Created stream processing framework to separate business logic from
+      transport details and ensure at-least-once guarantees.
+    * Built event infrastructure to power customer events and internal BI
+      analysis.
+    * Overhauled credential and authorization system.
+    * Mentored early-in-career teammates.
+    * Led effort to integrate services with open telemetry and Honeycomb.
+
+----
+
+2018-2022
+:   Principal Software Engineer at **Segment**
+
+    * Maintained ctlstore -- Segment's distributed database / CDN for control
+      data.
+    * Created and successfully adopted feature flagging system built on
+      ctlstore.
+    * Maintained event ingest pipeline.
+    * Built out infrastructure to create and query profile graphs on DynamoDB.
+
+----
+
+2017-2018
+:   Senior Software Engineer at **Mesosphere**
+
+    * Built DC/OS backup/restore coordination service. 
+    * Took ownership of and maintained shared Go library.
+    * Created SDK-based frameworks for cluster visibility. 
+
+----
+
+2013-2017
+:   Senior Software Engineer at **Librato**
+
+    * Developed Cassandra time series database.
+    * Created and maintained real-time alert dection and notification system.
+    * Built system to import Cloudwatch metrics into Librato.
+    * Maintained system to import Heroku log-based metrics into Librato.
+    * Maintained open source Java/Dropwizard Librato integrations.
 
 
 Education
