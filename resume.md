@@ -3,7 +3,7 @@ Collin Van Dyck
 
 ----
 
-> Programming, Coffee, Cats, Parsing
+> Programming, Coffee, Cats, Parsing, Terminals, Neovim, Bears, Battlestar Galactica
 
 ----
 
@@ -52,6 +52,34 @@ Experience
     * Built system to import Cloudwatch metrics into Librato.
     * Maintained system to import Heroku log-based metrics into Librato.
     * Maintained open source Java/Dropwizard Librato integrations.
+
+----
+
+2012-2013
+:   Senior Software Engineer at **Boundary**
+
+    * Optimized time series streaming system.
+    * Built out event collection/indexing pipeline using Solr/Postgres.
+    * Ported erlang services to Dropwizard.
+    * Built customer-facing daily usage rollup reports.
+
+----
+
+2011-2012
+:   Software Engineer at **Yammer**
+
+    * Worked on distributed search pipeline (Lucene, homegrown index replication)
+    * Helped maintain distributed message store (BDB-JE)
+    * Built LDAP synchronization service
+    * Built streaming data export service
+
+----
+
+2017-2011
+:   Owner at **Nimble Technique**
+
+    * Consulting focused on helping companies with their Ruby/Java/Scala
+      infrastructure.
 
 
 Education
