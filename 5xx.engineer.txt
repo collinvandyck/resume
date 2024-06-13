@@ -5,6 +5,8 @@ Collin Van Dyck
 
 > i like computers
 
+> <collin@5xx.engineer> | 678-755-7366 | Durham, NC
+
 ----
 
 Experience
@@ -89,7 +91,7 @@ Experience
 
 ----
 
-2017-2011
+2007-2011
 :   Owner at **Nimble Technique**
 
     * Consulting focused on helping companies with their Ruby/Java/Scala
