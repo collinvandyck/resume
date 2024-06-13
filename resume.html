@@ -11,8 +11,11 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -20,19 +23,32 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="style.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1 id="collin-van-dyck">Collin Van Dyck</h1>
 <hr />
 <blockquote>
-<p>Programming, Coffee, Cats, Parsing, Terminals, Neovim, Bears,
-Battlestar Galactica</p>
+<p>i like computers</p>
 </blockquote>
 <hr />
 <h2 id="experience">Experience</h2>
+<dl>
+<dt>2023-2024</dt>
+<dd>
+<p>Sr Staff Software Engineer at <strong>Rippling</strong></p>
+<ul>
+<li>First Rust experience. Have learned a ton.</li>
+<li>Planned and executed on strategy to improve agent reliability,
+resuling in 25% increase in HA metrics.</li>
+<li>Rearchitected agent project to become more modular, composable, and
+platform-agnostic.</li>
+<li>Introduced CLI tooling to remove roadblocks for common
+troubleshooting and release processes.</li>
+<li>Mentorship of EIC teammates</li>
+</ul>
+</dd>
+</dl>
+<hr />
 <dl>
 <dt>2022-2023</dt>
 <dd>

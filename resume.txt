@@ -3,12 +3,26 @@ Collin Van Dyck
 
 ----
 
-> Programming, Coffee, Cats, Parsing, Terminals, Neovim, Bears, Battlestar Galactica
+> i like computers
 
 ----
 
 Experience
 ----------
+
+2023-2024
+:   Sr Staff Software Engineer at **Rippling**
+
+	* First Rust experience. Have learned a ton. 
+	* Planned and executed on strategy to improve agent reliability, resuling in
+	  25% increase in HA metrics.
+	* Rearchitected agent project to become more modular, composable, and
+	  platform-agnostic.
+	* Introduced CLI tooling to remove roadblocks for common troubleshooting and
+	  release processes.
+	* Mentorship of EIC teammates
+
+----
 
 2022-2023
 :   Principal Software Engineer at **ngrok**
