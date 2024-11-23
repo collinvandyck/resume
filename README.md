@@ -15,11 +15,12 @@ Experience
 2023-2024
 :   Sr Staff Software Engineer at **Rippling**
 
-	* First Rust experience. Have learned a ton. 
+	* Rust agent rearchitecture
+        * Broke out monolith crate into workspace with sub-crates.
+        * Created in-memory work scheduler to replace legacy disk-based system.
+        * Created patterns for more modular code components and testability.
 	* Planned and executed on strategy to improve agent reliability, resuling in
 	  25% increase in HA metrics.
-	* Rearchitected agent project to become more modular, composable, and
-	  platform-agnostic.
 	* Introduced CLI tooling to remove roadblocks for common troubleshooting and
 	  release processes.
 	* Mentorship of EIC teammates
@@ -54,9 +55,9 @@ Experience
 2017-2018
 :   Senior Software Engineer at **Mesosphere**
 
-    * Built DC/OS backup/restore coordination service. 
+    * Built DC/OS backup/restore coordination service.
     * Took ownership of and maintained shared Go library.
-    * Created SDK-based frameworks for cluster visibility. 
+    * Created SDK-based frameworks for cluster visibility.
 
 ----
 
@@ -103,5 +104,4 @@ Education
 
 B.S of Science in Computer Science
 Georgia Tech, 1998
-
 
