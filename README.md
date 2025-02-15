@@ -13,6 +13,13 @@ Experience
 ----------
 
 2023-2024
+:   Staff Software Engineer at **Cortex.io**
+
+    * Just getting started -- more details to come.
+
+----
+
+2023-2024
 :   Sr Staff Software Engineer at **Rippling**
 
 	* Rust agent rearchitecture
