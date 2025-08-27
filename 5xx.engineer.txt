@@ -12,10 +12,14 @@ Collin Van Dyck
 Experience
 ----------
 
-2023-2024
+2024-2025
 :   Staff Software Engineer at **Cortex.io**
 
-    * Just getting started -- more details to come.
+    * Helped model and manage generic entity relationships between entities
+    * Migrated catalog mechanics to support entity relationships
+    * Prototyped new integrations-related ingestion pipeline using Temporal
+    * Built cli developer tooling to speed up and automate the development iteration process.
+    * Successfully promoted the use of language models to help reduce time to remediation for customer issues.
 
 ----
 
