@@ -5,7 +5,7 @@ Collin Van Dyck
 
 > i like computers
 
-> [5xx.engineer](https://5xx.engineer) | <collin@5xx.engineer> | 678-755-7366 | Durham, NC
+> [5xx.engineer](https://5xx.engineer) | <collin@5xx.engineer> | 678-755-7366 | Decatur, GA
 
 ----
 
